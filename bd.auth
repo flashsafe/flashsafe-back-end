@@ -1,0 +1,13 @@
+<?php
+
+$DB_SERVER = "eu-cdbr-azure-north-d.cloudapp.net";
+$DB_USER = "b3bc423eeb16ef";
+$DB_PASS = "22f820c40caf142";
+$DB_NAME = "flashsaALXAwyvq4";
+
+$DB_auth = "auth";
+$DB_users = "users";
+$DB_devices = "devices";
+$DB_files = "files";
+
+?>
